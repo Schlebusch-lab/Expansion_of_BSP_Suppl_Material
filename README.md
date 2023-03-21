@@ -9,7 +9,7 @@ https://raw.githack.com/Schlebusch-lab/Bantu_expansion_Supplementary_Material/ma
 ##### Fig.S 1.4b | Labels of all the populations included in the AfricanNeo dataset. 
 https://raw.githack.com/Schlebusch-lab/Bantu_expansion_Supplementary_Material/main/Geographical_Locations/Fig_S_1_4a_Map.html
 
-## 2- Dimensionality reduction methods
+## 2- Dimensionality reduction methods (DRM)
 
 ##### Fig.S 2.1 | UMAP approach on the basis of genotype data. 
 https://raw.githack.com/Schlebusch-lab/Bantu_expansion_Supplementary_Material/main/
@@ -22,6 +22,19 @@ https://raw.githack.com/Schlebusch-lab/Bantu_expansion_Supplementary_Material/ma
 
 ##### Fig.S 2.4 | Procrustes rotated PCA for the Only-African dataset. 
 https://raw.githack.com/Schlebusch-lab/Bantu_expansion_Supplementary_Material/main/
+
+## 4- Ancestry-specific analyses
+
+##### Fig.S 4.1 | Ancestry-specific (AS-)PCA for the masked Only-BSP dataset.
+
+##### Legends and maps for each group (top) and each population (bottom) in Fig.S 4.4.
+
+
+## 5- Genome-wide runs of homozygosity (ROH) estimates
+
+## 6- Estimated effective population sizes (Ne)
+
+## 8- Patterns of haplotype diversity
 
 
 
