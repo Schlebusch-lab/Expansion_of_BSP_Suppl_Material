@@ -20,8 +20,7 @@
 
 ##### [Fig.S 2.5 | PCA for the Full-Genotyped dataset and reference sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.5_PCA_Full-Genotyped_DB.html)
 
-##### [Fig.S 2.6 | PCA for each group included in the AfricanNeo dataset.  
-https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.6_PCA_AfricanNeo_DB.html)
+##### [Fig.S 2.6 | PCA for each group included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.6_PCA_AfricanNeo_DB.html)
 
 ##### [Fig.S 2.7 | PCA-UMAP approach for the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.7_PCA.html)
 
@@ -35,7 +34,7 @@ https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/
 
 ##### [Fig.S 4.2 | Ancestry-specific (AS-)-PCA after removing Himba and Herero](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/AS-PCA/Fig.S_4.2_ASPCA_masked_Only-BSP_DB.html)
 
-##### Legends and maps for each group (top) and each population (bottom) in Fig.S 4.4](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/AS-PCA/Fig.S_4.4_Map_masked_Only-BSP_DB.html)
+##### [Legends and maps for each group (top) and each population (bottom) in Fig.S 4.4](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/AS-PCA/Fig.S_4.4_Map_masked_Only-BSP_DB.html)
 
 
 ## 5- Genome-wide runs of homozygosity (ROH) estimates
