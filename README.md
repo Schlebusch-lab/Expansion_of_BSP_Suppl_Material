@@ -24,6 +24,20 @@ https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/
 ##### Fig.S 2.4 | Procrustes rotated PCA for the Only-African dataset. 
 https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.4_Procrustes_PCA.html
 
+##### Fig.S 2.5 | PCA for the Full-Genotyped dataset and reference sub-Saharan African populations. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.5_PCA_Full-Genotyped_DB.html
+
+##### Fig.S 2.6 | PCA for each group included in the AfricanNeo dataset.  
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.6_PCA_AfricanNeo_DB.html
+
+##### Fig.S 2.7 | PCA-UMAP approach for the AfricanNeo dataset. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.7_PCA.html
+
+##### Fig.S 2.8 | GCAE approach for the AfricanNeo dataset. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.8_GCAE_AfricanNeo_DB.html
+
+##### Fig.S 2.8 | GCAE approach for the Only-African dataset. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/DRM/Fig.S_2.8_GCAE_Only-African_DB.html
 
 ## 4- Ancestry-specific principal component analyses (AS-PCA)
 
