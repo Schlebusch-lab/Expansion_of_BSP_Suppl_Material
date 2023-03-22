@@ -34,7 +34,7 @@
 
 ##### [Fig.S 4.2 | Ancestry-specific (AS-)-PCA after removing Himba and Herero](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/AS-PCA/Fig.S_4.2_ASPCA_masked_Only-BSP_DB.html)
 
-##### [Legends and maps for each group (top) and each population (bottom) in Fig.S 4.4](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/AS-PCA/Fig.S_4.4_Map_masked_Only-BSP_DB.html)
+##### [Geographical locations for each group (top) and each population (bottom) included in Fig.S 4.4](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/AS-PCA/Fig.S_4.4_Map_masked_Only-BSP_DB.html)
 
 
 ## 5- Genome-wide runs of homozygosity (ROH) estimates
