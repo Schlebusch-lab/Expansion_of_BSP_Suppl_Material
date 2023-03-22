@@ -3,7 +3,8 @@
 # Supplementary Figures
 
 ## 1- Geographical locations
-##### (Fig.S 1.4a | Labels of all the groups included in the AfricanNeo dataset)[https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Geographical_Locations/Fig_S_1_4a_Map.html]
+##### 
+[Fig.S 1.4a | Labels of all the groups included in the AfricanNeo dataset]: https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Geographical_Locations/Fig_S_1_4a_Map.html
 
 ##### Fig.S 1.4b | Labels of all the populations included in the AfricanNeo dataset. 
 https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Geographical_Locations/Fig_S_1_4a_Map.html
