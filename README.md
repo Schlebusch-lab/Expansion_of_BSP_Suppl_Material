@@ -9,6 +9,7 @@ https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Geog
 ##### Fig.S 1.4b | Labels of all the populations included in the AfricanNeo dataset. 
 https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Geographical_Locations/Fig_S_1_4a_Map.html
 
+
 ## 2- Dimensionality reduction methods (DRM)
 
 ##### Fig.S 2.1 | UMAP approach on the basis of genotype data. 
@@ -43,23 +44,34 @@ https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/ROH/
 ##### Fig.S 5.6b | All categories of ROH length for the Only-BSP dataset. 
 https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/ROH/Fig.S_5.6b_ROH_Only-BSP_DB.html
 
+
 ## 6- Estimated effective population sizes (Ne)
 ##### Fig.S 6.1 | IBDNe results for the AfricanNeo dataset.
 https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/IBDNe/IBDNe_plot.html
 
 
-## 8- Patterns of haplotype diversity (HaploDiv)
+## 12- Comparisons between aDNA samples and modern-day African populations
 
-##### 
-https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/HaploDiv/_plot.html
+##### Fig.S 12.1 | Geographical locations of aDNA samples included in this study. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_Locations.html
 
-##### 
-https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/
+##### Fig.S 12.2 | PCA of aDNA and modern African populations. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_PCA.html
 
-##### 
-https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/
+##### Fig.S 12.2 | PCA-UMAP of aDNA and modern African populations. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_PCA-UMAP.html
 
-##### 
-https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/
+##### Fig.S 12.12 | PCA of ancient samples and modern BSP from Zambia. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_PCA-Zambia.html
+
+##### Fig.S 12.13 | PCA of ancient samples and modern BSP from South Africa. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_PCA-SouthAfrica.html
+
+##### Fig.S 12.14 | PCA-UMAP of ancient samples and modern BSP from South Africa. 
+https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_PCA-UMAP-SouthAfrica.html
+
+
+
+
 
 
