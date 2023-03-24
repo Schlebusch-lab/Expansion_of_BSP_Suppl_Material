@@ -62,6 +62,10 @@
 ##### [Fig.S 12.14 | PCA-UMAP of ancient samples and modern BSP from South Africa](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/aDNA/aDNA_PCA-UMAP-SouthAfrica.html)
 
 
+### Citation
+
+***The genetic legacy of the expansion of Bantu-speaking peoples in Africa***
+Cesar A. Fortes-Lima, Concetta Burgarella, Rickard Hammarén, Anders Eriksson, Mário Vicente, Cecile Jolly, Armando Semo, Hilde Gunnink, Sara Pacchiarotti, Leon Mundeke, Igor Matonda, Joseph Koni Muluwa, Peter Coutros, Terry S. Nyambe, Cirhuza Cikomola, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Joris Delanghe, Mark Stoneking, Larry Barham, Marlize Lombard, Anja Meyer, Maryna Steyn, Helena Malmström, Jorge Rocha, Himla Soodyall, Brigitte Pakendorf, Koen Bostoen & Carina M. Schlebusch. *Biorxiv*.
 
 
 
