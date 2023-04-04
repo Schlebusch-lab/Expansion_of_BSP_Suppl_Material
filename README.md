@@ -1,7 +1,7 @@
 
 # Supplementary Material
 
-## Files are included in [Suppl_Material_bioRxiv_V1](https://github.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/tree/main/Suppl_Material_bioRxiv_V1)
+## Current files are included in [Suppl_Material_bioRxiv_V1](https://github.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/tree/main/Suppl_Material_bioRxiv_V1)
 
 ### Citation
 
