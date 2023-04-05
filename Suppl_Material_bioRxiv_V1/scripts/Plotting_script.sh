@@ -1,4 +1,5 @@
 
+## Command lines to plot the interactive plots
 
 Folder="01-Maps"
 alias bokeh="python2 scripts/bokeh_interactive_map.py"
