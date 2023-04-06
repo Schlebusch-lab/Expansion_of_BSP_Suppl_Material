@@ -19,9 +19,9 @@
 
 ## 2- Dimensionality reduction methods (DRM)
 
-##### [Fig.S 2.1a | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.1a_UMAP_plot_plot.html)
+##### [Fig.S 2.1a | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.1a_UMAP_plot.html)
 
-##### [Fig.S 2.1b | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.1b_UMAP_plot_plot.html)
+##### [Fig.S 2.1b | UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.1b_UMAP_plot.html)
 
 ##### [Fig.S 2.2 | PCA plots for only Bantu-speaking groups](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.2_PCA_Only-BSP_Groups.html)
 
