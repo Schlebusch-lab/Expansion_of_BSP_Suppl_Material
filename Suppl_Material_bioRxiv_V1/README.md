@@ -35,9 +35,9 @@
 
 ##### [Fig.S 2.6 | PCA for all teh populations included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.6_PCA_AfricanNeo_Populations.html)
 
-##### [Fig.S 2.7a | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.7a_UMAP_plot.html)
+##### [Fig.S 2.7a | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.7a_PCA-UMAP_plot.html)
 
-##### [Fig.S 2.7b | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.7b_UMAP_plot.html)
+##### [Fig.S 2.7b | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.7b_PCA-UMAP_plot.html)
 
 ##### [Fig.S 2.8a | GCAE approach for all the groups included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-GCAE/Fig.S_2.8a_GCAE_plot.html)
 
