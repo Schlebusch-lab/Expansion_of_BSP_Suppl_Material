@@ -31,9 +31,9 @@
 
 ##### [Fig.S 2.3 | PCA plots for selected sub-Saharan African populations](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.3_PCA_SSA_Populations.html)
 
-##### [Fig.S 2.6 | PCA for all the groups included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.6_PCA_AfricanNeo_Groups.html)
+##### [Fig.S 2.6 | PCA plots for all the groups included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.6_PCA_AfricanNeo_Groups.html)
 
-##### [Fig.S 2.6 | PCA for all the populations included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.6_PCA_AfricanNeo_Populations.html)
+##### [Fig.S 2.6 | PCA plots for all the populations included in the AfricanNeo dataset.](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-PCA/Fig.S_2.6_PCA_AfricanNeo_Populations.html)
 
 ##### [Fig.S 2.7a | PCA-UMAP approach on the basis of genotype data included in the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-UMAP/Fig.S_2.7a_PCA-UMAP_plot.html)
 
@@ -48,7 +48,7 @@
 ##### [Fig.S 2.8d | GCAE approach for all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-GCAE/Fig.S_2.8b_GCAE_plot.html)
 
 
-## 2- Genome-wide runs of homozygosity (ROH)
+## 5- Genome-wide runs of homozygosity (ROH)
 
 ##### [Fig.S 5.6a | All categories of ROH length for the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/05-ROH/Fig.S_5.6a_ROH_categories_plot.html)
 
