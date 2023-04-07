@@ -94,5 +94,15 @@ title="GCAE plot for all the populations included in the Only-African dataset"
 	for DB in Only-African_Populations; do bokeh -i Tables/GCAE_Only-African_DB_table.txt -o ${Folder}/Fig.S_2.8d_GCAE_plot -t "$title" -a "$add_info" -p Patterns/${DB}_df.csv; done
 
 
+Folder="05-ROH" # ROH plots included in this folder
+alias bokeh="python2 scripts/bokeh_ROH_class_plot.py"
+
+# Fig.S_5.6a ROHclass_AfricanNeo_DB
+title="All categories of ROH length for the AfricanNeo dataset"
+	add_info="Averages for each category of ROH length in each studied population included in the AfricanNeo dataset"
+	for DB in AfricanNeo_Groups; do bokeh -i Tables/ROH_categories_AfricanNeo_DB.txt -o ${Folder}/Fig.S_5.6a_ROH_categories_plot -t "$title" -a "$add_info" -p Patterns/${DB}_df.csv; done
+title="All categories of ROH length for the Only-BSP dataset"
+	add_info="Averages for each category of ROH length in each studied population included in the Only-BSP dataset"
+	for DB in Only-BSP_Populations; do bokeh -i Tables/ROH_categories_Only-BSP_DB.txt -o ${Folder}/Fig.S_5.6b_ROH_categories_plot -t "$title" -a "$add_info" -p Patterns/${DB}_df.csv; done
 
 
