@@ -48,6 +48,13 @@
 ##### [Fig.S 2.8d | GCAE approach for all the populations included in the Only-African dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/02-GCAE/Fig.S_2.8b_GCAE_plot.html)
 
 
+## 2- Genome-wide runs of homozygosity (ROH)
+
+##### [Fig.S 5.6a | All categories of ROH length for the AfricanNeo dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/05-ROH/Fig.S_5.6a_ROH_categories_plot.html)
+
+##### [Fig.S 5.6b | All categories of ROH length for the Only-BSP dataset](https://raw.githack.com/Schlebusch-lab/Expansion_of_BSP_Suppl_Material/main/Suppl_Material_bioRxiv_V1/05-ROH/Fig.S_5.6b_ROH_categories_plot.html)
+
+
  
 ### Citation
 
